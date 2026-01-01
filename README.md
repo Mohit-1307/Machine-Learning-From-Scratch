@@ -330,7 +330,9 @@ This repository is ideal for:
 
 # 🛠️ Tech Stack & Tools
 
-* Python
+* <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> Python
+</p>Python
 
 * NumPy – Numerical computation
 
@@ -370,7 +372,9 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-📌 Author
+# 📌 Author
 
 Mohit Singh Rajput
 Machine Learning & Data Science Enthusiast
+
+---
