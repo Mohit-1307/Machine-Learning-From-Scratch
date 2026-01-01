@@ -27,116 +27,117 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 ---
 
-📂 Project Structure (Clickable)
+📂 Project Structure
+
 🧹 Data Preprocessing
 
-data_preprocessing_tools.ipynb
+      data_preprocessing_tools.ipynb
 
 📈 Regression
 
-simple_linear_regression.ipynb
+      simple_linear_regression.ipynb
 
-multiple_linear_regression.ipynb
+      multiple_linear_regression.ipynb
 
-polynomial_regression.ipynb
+      polynomial_regression.ipynb
 
-support_vector_regression.ipynb
+      support_vector_regression.ipynb
 
-decision_tree_regression.ipynb
+      decision_tree_regression.ipynb
 
-random_forest_regression.ipynb
+      random_forest_regression.ipynb
 
 📊 Regression Model Selection
 
-Accuracy_multiple_linear_regression.ipynb
+      Accuracy_multiple_linear_regression.ipynb
 
-Accuracy_polynomial_regression.ipynb
+      Accuracy_polynomial_regression.ipynb
 
-Accuracy_support_vector_regression.ipynb
+      Accuracy_support_vector_regression.ipynb
 
-Accuracy_decision_tree_regression.ipynb
+      Accuracy_decision_tree_regression.ipynb
 
-Accuracy_random_forest_regression.ipynb
+      Accuracy_random_forest_regression.ipynb
 
 🤖 Classification
 
-logistic_regression.ipynb
+      logistic_regression.ipynb
 
-k_nearest_neighbors.ipynb
+      k_nearest_neighbors.ipynb
 
-support_vector_machine.ipynb
+      support_vector_machine.ipynb
 
-kernel_svm.ipynb
+      kernel_svm.ipynb
 
-naive_bayes.ipynb
+      naive_bayes.ipynb
 
-decision_tree_classification.ipynb
+      decision_tree_classification.ipynb
 
-random_forest_classification.ipynb
+      random_forest_classification.ipynb
 
 📊 Classification Model Selection
 
-Accuracy_logistic_regression.ipynb
+      Accuracy_logistic_regression.ipynb
 
-Accuracy_k_nearest_neighbors.ipynb
+      Accuracy_k_nearest_neighbors.ipynb
 
-Accuracy_support_vector_machine.ipynb
+      Accuracy_support_vector_machine.ipynb
 
-Accuracy_kernel_svm.ipynb
+      Accuracy_kernel_svm.ipynb
 
-Accuracy_naive_bayes.ipynb
+      Accuracy_naive_bayes.ipynb
 
-Accuracy_decision_tree_classification.ipynb
+      Accuracy_decision_tree_classification.ipynb
 
-Accuracy_random_forest_classification.ipynb
+      Accuracy_random_forest_classification.ipynb
 
 🧩 Clustering
 
-k_means_clustering.ipynb
+      k_means_clustering.ipynb
 
-hierarchical_clustering.ipynb
+      hierarchical_clustering.ipynb
 
 🔗 Association Rule Learning
 
-apriori.ipynb
+      apriori.ipynb
 
-eclat.ipynb
+      eclat.ipynb
 
 🎯 Reinforcement Learning
 
-upper_confidence_bound.ipynb
+      upper_confidence_bound.ipynb
 
-thompson_sampling.ipynb
+      thompson_sampling.ipynb
 
 📝 Natural Language Processing
 
-natural_language_processing.ipynb
+      natural_language_processing.ipynb
 
 🧠 Deep Learning
 
-artificial_neural_network.ipynb
+      artificial_neural_network.ipynb
 
-convolutional_neural_network.ipynb
+      convolutional_neural_network.ipynb
 
 📉 Dimensionality Reduction
 
-principal_component_analysis.ipynb
+      principal_component_analysis.ipynb
 
-linear_discriminant_analysis.ipynb
+      linear_discriminant_analysis.ipynb
 
-kernel_pca.ipynb
+      kernel_pca.ipynb
 
 🔍 Model Selection
 
-k_fold_cross_validation.ipynb
+      k_fold_cross_validation.ipynb
 
-grid_search.ipynb
+      grid_search.ipynb
 
 ⚡ Boosting
 
-xg_boost.ipynb
+      xg_boost.ipynb
 
-catboost.ipynb
+      catboost.ipynb
 
 ---
 
