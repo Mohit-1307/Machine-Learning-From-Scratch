@@ -10,11 +10,23 @@ This project focuses on **learning by implementation**, building strong intuitio
 This repository contains **end-to-end implementations** of major Machine Learning concepts including:
 
 📈 Supervised Learning (Regression & Classification)
+
+
 🧩 Unsupervised Learning (Clustering & Association Rules)
+
+
 🎯 Reinforcement Learning
+
+
 📝 Natural Language Processing
+
+
 🧠 Deep Learning
+
+
 📉 Dimensionality Reduction
+
+
 🔍 Model Selection & Hyperparameter Tuning
 
 Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and modular learning.
