@@ -35,101 +35,73 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 
 ## 📂 Project Structure
 
-Machine-Learning-Blueprint/
+1. 🧹 Data Preprocessing
+      - data_preprocessing_tools.ipynb`
 
+2. 📈 Regression
+      - simple_linear_regression.ipynb`
+      - multiple_linear_regression.ipynb`
+      - polynomial_regression.ipynb`
+      - support_vector_regression.ipynb`
+      - decision_tree_regression.ipynb`
+      - random_forest_regression.ipynb`
 
-│
-├── 🧹 Data Preprocessing
-│ └── data_preprocessing_tools.ipynb
-│
+3. 📊 Regression Model Selection
+      - Accuracy_multiple_linear_regression.ipynb`
+      - Accuracy_polynomial_regression.ipynb`
+      - Accuracy_support_vector_regression.ipynb`
+      - Accuracy_decision_tree_regression.ipynb`
+      - Accuracy_random_forest_regression.ipynb`
 
+4. 🤖 Classification
+      - logistic_regression.ipynb`
+      - k_nearest_neighbors.ipynb`
+      - support_vector_machine.ipynb`
+      - kernel_svm.ipynb`
+      - naive_bayes.ipynb`
+      - decision_tree_classification.ipynb`
+      - random_forest_classification.ipynb`
 
-├── 📈 Regression
-│ ├── simple_linear_regression.ipynb
-│ ├── multiple_linear_regression.ipynb
-│ ├── polynomial_regression.ipynb
-│ ├── support_vector_regression.ipynb
-│ ├── decision_tree_regression.ipynb
-│ └── random_forest_regression.ipynb
-│
+5. 📊 Classification Model Selection
+      - Accuracy_logistic_regression.ipynb`
+      - Accuracy_k_nearest_neighbors.ipynb`
+      - Accuracy_support_vector_machine.ipynb`
+      - Accuracy_kernel_svm.ipynb`
+      - Accuracy_naive_bayes.ipynb`
+      - Accuracy_decision_tree_classification.ipynb`
+      - Accuracy_random_forest_classification.ipynb`
+        
+6. 🧩 Clustering
+      - k_means_clustering.ipynb`
+      - hierarchical_clustering.ipynb`
 
+7. 🔗 Association Rule Learning
+      - apriori.ipynb`
+      - eclat.ipynb`
 
-├── 📊 Regression Model Selection
-│ ├── Accuracy_multiple_linear_regression.ipynb
-│ ├── Accuracy_polynomial_regression.ipynb
-│ ├── Accuracy_support_vector_regression.ipynb
-│ ├── Accuracy_decision_tree_regression.ipynb
-│ └── Accuracy_random_forest_regression.ipynb
-│
+8. 🎯 Reinforcement Learning
+      - upper_confidence_bound.ipynb`
+      - thompson_sampling.ipynb`
 
+9. 📝 Natural Language Processing
+      - natural_language_processing.ipynb`
 
-├── 🤖 Classification
-│ ├── logistic_regression.ipynb
-│ ├── k_nearest_neighbors.ipynb
-│ ├── support_vector_machine.ipynb
-│ ├── kernel_svm.ipynb
-│ ├── naive_bayes.ipynb
-│ ├── decision_tree_classification.ipynb
-│ └── random_forest_classification.ipynb
-│
+10. 🧠 Deep Learning
+      - artificial_neural_network.ipynb`
+      - convolutional_neural_network.ipynb`
 
+11. 📉 Dimensionality Reduction
+      - principal_component_analysis.ipynb`
+      - linear_discriminant_analysis.ipynb`
+      - kernel_pca.ipynb`
 
-├── 📊 Classification Model Selection
-│ ├── Accuracy_logistic_regression.ipynb
-│ ├── Accuracy_k_nearest_neighbors.ipynb
-│ ├── Accuracy_support_vector_machine.ipynb
-│ ├── Accuracy_kernel_svm.ipynb
-│ ├── Accuracy_naive_bayes.ipynb
-│ ├── Accuracy_decision_tree_classification.ipynb
-│ └── Accuracy_random_forest_classification.ipynb
-│
+12. 🔍 Model Selection
+      - k_fold_cross_validation.ipynb`
+      - grid_search.ipynb`
 
-
-├── 🧩 Clustering
-│ ├── k_means_clustering.ipynb
-│ └── hierarchical_clustering.ipynb
-│
-├── 🔗 Association Rule Learning
-│ ├── apriori.ipynb
-│ └── eclat.ipynb
-│
-
-
-├── 🎯 Reinforcement Learning
-│ ├── upper_confidence_bound.ipynb
-│ └── thompson_sampling.ipynb
-│
-
-
-├── 📝 Natural Language Processing
-│ └── natural_language_processing.ipynb
-│
-
-
-├── 🧠 Deep Learning
-│ ├── artificial_neural_network.ipynb
-│ └── convolutional_neural_network.ipynb
-│
-
-
-├── 📉 Dimensionality Reduction
-│ ├── principal_component_analysis.ipynb
-│ ├── linear_discriminant_analysis.ipynb
-│ └── kernel_pca.ipynb
-│
-
-
-├── 🔍 Model Selection
-│ ├── k_fold_cross_validation.ipynb
-│ └── grid_search.ipynb
-│
-
-
-├── ⚡ Boosting
-│ ├── xg_boost.ipynb
-│ └── catboost.ipynb
-
----
+13. ⚡ Boosting
+      - xg_boost.ipynb`
+      - catboost.ipynb`
 
 ## 🛠️ Tech Stack
 
