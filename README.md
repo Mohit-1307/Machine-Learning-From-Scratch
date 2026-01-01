@@ -1,21 +1,34 @@
-# Machine Learning Blueprint 🚀
+# 🧠 Machine Learning Blueprint
 
-This repository is a comprehensive collection of **Machine Learning algorithms implemented step-by-step in Python**, covering **supervised learning, unsupervised learning, reinforcement learning, deep learning, dimensionality reduction, and model selection techniques**.
+A comprehensive, hands-on repository covering **Machine Learning algorithms implemented step-by-step in Python**.  
+This project focuses on **learning by implementation**, building strong intuition behind models, preprocessing, and evaluation techniques.
 
-The goal of this project is **learning by implementation** — understanding how each algorithm works, how data is preprocessed, and how models are evaluated.
+---
+
+## 📌 Overview
+
+This repository contains **end-to-end implementations** of major Machine Learning concepts including:
+
+📈 Supervised Learning (Regression & Classification)
+🧩 Unsupervised Learning (Clustering & Association Rules)
+🎯 Reinforcement Learning
+📝 Natural Language Processing
+🧠 Deep Learning
+📉 Dimensionality Reduction
+🔍 Model Selection & Hyperparameter Tuning
+
+Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and modular learning.
 
 ---
 
 ## 📂 Project Structure
 
-Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and modular learning.
-
 Machine-Learning-Blueprint/
 │
-├── Data Preprocessing
+├── 🧹 Data Preprocessing
 │ └── data_preprocessing_tools.ipynb
 │
-├── Regression
+├── 📈 Regression
 │ ├── simple_linear_regression.ipynb
 │ ├── multiple_linear_regression.ipynb
 │ ├── polynomial_regression.ipynb
@@ -23,14 +36,14 @@ Machine-Learning-Blueprint/
 │ ├── decision_tree_regression.ipynb
 │ └── random_forest_regression.ipynb
 │
-├── Regression Model Selection
+├── 📊 Regression Model Selection
 │ ├── Accuracy_multiple_linear_regression.ipynb
 │ ├── Accuracy_polynomial_regression.ipynb
 │ ├── Accuracy_support_vector_regression.ipynb
 │ ├── Accuracy_decision_tree_regression.ipynb
 │ └── Accuracy_random_forest_regression.ipynb
 │
-├── Classification
+├── 🤖 Classification
 │ ├── logistic_regression.ipynb
 │ ├── k_nearest_neighbors.ipynb
 │ ├── support_vector_machine.ipynb
@@ -39,7 +52,7 @@ Machine-Learning-Blueprint/
 │ ├── decision_tree_classification.ipynb
 │ └── random_forest_classification.ipynb
 │
-├── Classification Model Selection
+├── 📊 Classification Model Selection
 │ ├── Accuracy_logistic_regression.ipynb
 │ ├── Accuracy_k_nearest_neighbors.ipynb
 │ ├── Accuracy_support_vector_machine.ipynb
@@ -48,118 +61,64 @@ Machine-Learning-Blueprint/
 │ ├── Accuracy_decision_tree_classification.ipynb
 │ └── Accuracy_random_forest_classification.ipynb
 │
-├── Clustering
+├── 🧩 Clustering
 │ ├── k_means_clustering.ipynb
 │ └── hierarchical_clustering.ipynb
 │
-├── Association Rule Learning
+├── 🔗 Association Rule Learning
 │ ├── apriori.ipynb
 │ └── eclat.ipynb
 │
-├── Reinforcement Learning
+├── 🎯 Reinforcement Learning
 │ ├── upper_confidence_bound.ipynb
 │ └── thompson_sampling.ipynb
 │
-├── Natural Language Processing
+├── 📝 Natural Language Processing
 │ └── natural_language_processing.ipynb
 │
-├── Deep Learning
+├── 🧠 Deep Learning
 │ ├── artificial_neural_network.ipynb
 │ └── convolutional_neural_network.ipynb
 │
-├── Dimensionality Reduction
+├── 📉 Dimensionality Reduction
 │ ├── principal_component_analysis.ipynb
 │ ├── linear_discriminant_analysis.ipynb
 │ └── kernel_pca.ipynb
 │
-├── Model Selection
+├── 🔍 Model Selection
 │ ├── k_fold_cross_validation.ipynb
 │ └── grid_search.ipynb
 │
-├── Boosting
+├── ⚡ Boosting
 │ ├── xg_boost.ipynb
 │ └── catboost.ipynb
 
 ---
 
-## 🧠 Topics Covered
+## 🛠️ Tech Stack
 
-### ✔ Data Preprocessing
-- Handling missing values
-- Encoding categorical data
-- Feature scaling
-- Train-test split
-
-### ✔ Regression
-- Linear & Polynomial Regression
-- Support Vector Regression (SVR)
-- Decision Tree & Random Forest Regression
-- XGBoost & CatBoost
-
-### ✔ Classification
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Kernel SVM
-- Naive Bayes
-- Decision Tree & Random Forest
-
-### ✔ Unsupervised Learning
-- K-Means Clustering
-- Hierarchical Clustering
-
-### ✔ Association Rule Learning
-- Apriori Algorithm
-- ECLAT Algorithm
-
-### ✔ Reinforcement Learning
-- Upper Confidence Bound (UCB)
-- Thompson Sampling
-
-### ✔ Natural Language Processing
-- Text preprocessing
-- Bag of Words model
-- Sentiment classification
-
-### ✔ Deep Learning
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
-
-### ✔ Dimensionality Reduction
-- PCA
-- LDA
-- Kernel PCA
-
-### ✔ Model Selection & Evaluation
-- K-Fold Cross Validation
-- Grid Search for Hyperparameter Tuning
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="20"/> Python 
+🧮 NumPy, Pandas  
+📈 Matplotlib, Seaborn  
+🤖 Scikit-learn  
+🧠 TensorFlow / Keras  
+🚀 XGBoost, CatBoost
 
 ---
 
-## 🛠️ Technologies Used
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib / Seaborn
-- Scikit-learn
-- TensorFlow / Keras
-- XGBoost
-- CatBoost
-
----
-
-## 🎯 Purpose of This Repository
+## 🎯 Project Goals
 
 - Build **strong ML fundamentals**
 - Understand algorithms beyond black-box usage
-- Practice **clean ML pipelines**
-- Serve as a **reference repo** for interviews & revision
+- Practice **clean preprocessing & evaluation pipelines**
+- Serve as a **revision + interview reference**
 
 ---
 
-## ▶ How to Run
+## ▶️ How to Run
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Mohit-1307/Machine-Learning-Blueprint.git
+```bash
+git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
+cd machine-learning-blueprint
+pip install -r requirements.txt
+jupyter notebook
