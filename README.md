@@ -3,6 +3,8 @@
 A comprehensive, hands-on repository covering Machine Learning algorithms implemented step-by-step in Python.
 Focused on learning by implementation, building strong intuition behind models, preprocessing, and evaluation.
 
+---
+
 📌 Overview
 
 This repository contains end-to-end implementations of major Machine Learning concepts including:
@@ -22,6 +24,8 @@ This repository contains end-to-end implementations of major Machine Learning co
 🔍 Model Selection & Hyperparameter Tuning
 
 Each algorithm is implemented in a separate Jupyter Notebook for clarity.
+
+---
 
 📂 Project Structure (Clickable)
 🧹 Data Preprocessing
@@ -134,6 +138,8 @@ xg_boost.ipynb
 
 catboost.ipynb
 
+---
+
 🛠️ Tech Stack
 
 🐍 Python
@@ -150,11 +156,15 @@ catboost.ipynb
 
 🚀 XGBoost, CatBoost
 
+---
+
 ▶️ How to Run
 git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
 cd machine-learning-blueprint
 pip install -r requirements.txt
 jupyter notebook
+
+---
 
 ⭐ Support
 
