@@ -1,4 +1,4 @@
-🧠 Machine Learning Blueprint
+## 🧠 Machine Learning Blueprint
 
 A comprehensive, hands-on repository covering Machine Learning algorithms implemented step-by-step in Python.
 Focused on learning by implementation, building strong intuition behind models, preprocessing, and evaluation.
