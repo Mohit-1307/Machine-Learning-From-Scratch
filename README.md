@@ -328,6 +328,12 @@ This repository is ideal for:
 
 ---
 
+## ⚙️ .gitignore
+
+Ignore rules for Python, Jupyter, virtual environments, and system files.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
@@ -341,12 +347,6 @@ This repository is ideal for:
 * <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="26"/> XGBoost – Gradient Boosting
 
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Gradient Boosting
-
----
-
-## ⚙️ .gitignore
-
-Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ---
 
