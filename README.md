@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Blueprint
+## 🧠 Machine Learning Blueprint
 
 A comprehensive, hands-on Machine Learning curriculum implemented entirely in Python.
 This repository is designed to build strong intuition, practical skills, and interview-ready understanding of Machine Learning—from fundamentals to advanced models.
@@ -7,7 +7,7 @@ This repository is designed to build strong intuition, practical skills, and int
 
 ---
 
-# 🚀 Why This Repository?
+## 🚀 Why This Repository?
 
 ✔️ Structured like a real ML course
 
@@ -21,7 +21,7 @@ This repository is designed to build strong intuition, practical skills, and int
 
 ---
 
-# 🎯 Who Is This For?
+## 🎯 Who Is This For?
 
 This repository is ideal for:
 
@@ -35,7 +35,7 @@ This repository is ideal for:
 
 ---
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 * After completing this repository, you will be able to:
 
@@ -55,7 +55,7 @@ This repository is ideal for:
 
 ---
 
-# 📚 Prerequisites
+## 📚 Prerequisites
 
 * Basic Python programming
 
@@ -65,9 +65,9 @@ This repository is ideal for:
 
 ---
 
-# 🧩 Course Structure (Learning Path)
+## 🧩 Course Structure (Learning Path)
 
-## 1️⃣ Data Preprocessing
+### 1️⃣ Data Preprocessing
 
 * Learn how to prepare raw data for Machine Learning.
 
@@ -79,13 +79,13 @@ This repository is ideal for:
 
 * Dataset splitting
 
-### 📄 Notebook:
+#### 📄 Notebook:
 
 * data_preprocessing_tools.ipynb
 
-## 🗺️ Supervised Learning
+### 🗺️ Supervised Learning
 
-## 2️⃣ Regression
+### 2️⃣ Regression
 
 📈 Predict continuous values using regression techniques.
 
@@ -101,7 +101,7 @@ This repository is ideal for:
 
 * Random Forest Regression
 
-### 📄 Regression Notebooks:
+#### 📄 Regression Notebooks:
 
 * simple_linear_regression.ipynb
 
@@ -115,11 +115,11 @@ This repository is ideal for:
 
 * random_forest_regression.ipynb
 
-## 3️⃣ Model Evaluation & Selection - Regression
+### 3️⃣ Model Evaluation & Selection - Regression
 
 📊 Learn how to evaluate regression models based on prediction error and explained variance
 
-### Concepts Covered:
+#### Concepts Covered:
 
 * RMSE (Root Mean Squared Error)
 
@@ -129,7 +129,7 @@ This repository is ideal for:
 
 * Model comparison across algorithms
 
-### 📄 Notebooks:
+#### 📄 Notebooks:
 
 * Accuracy_multiple_linear_regression.ipynb
 
@@ -141,7 +141,7 @@ This repository is ideal for:
 
 * Accuracy_random_forest_regression.ipynb
 
-## 4️⃣ Classification
+### 4️⃣ Classification
 
 🤖 Predict discrete class labels.
 
@@ -159,7 +159,7 @@ This repository is ideal for:
 
 * Random Forest Classification
 
-### 📄 Classification Notebooks:
+#### 📄 Classification Notebooks:
 
 * logistic_regression.ipynb
 
@@ -175,11 +175,11 @@ This repository is ideal for:
 
 * random_forest_classification.ipynb
 
-## 5️⃣ Model Evaluation & Selection - Classification
+### 5️⃣ Model Evaluation & Selection - Classification
 
 📊 Learn how to evaluate classification models based on prediction accuracy and class-wise performance.
 
-### Concepts Covered:
+#### Concepts Covered:
 
 * Accuracy Score
 
@@ -191,7 +191,7 @@ This repository is ideal for:
 
 * Model comparison across classifiers
 
-### 📄 Notebooks:
+#### 📄 Notebooks:
 
 * Accuracy_logistic_regression.ipynb
 
@@ -207,9 +207,9 @@ This repository is ideal for:
 
 * Accuracy_random_forest_classification.ipynb
 
-## 🧬 Unsupervised Learning
+### 🧬 Unsupervised Learning
 
-## 6️⃣ Clustering
+### 6️⃣ Clustering
 
 🧩 Discover hidden patterns in unlabeled data.
 
@@ -217,13 +217,13 @@ This repository is ideal for:
 
 * Hierarchical Clustering
 
-### 📄 Clustering Notebooks:
+#### 📄 Clustering Notebooks:
 
 * k_means_clustering.ipynb
 
 * hierarchical_clustering.ipynb
 
-## 7️⃣ Dimensionality Reduction
+### 7️⃣ Dimensionality Reduction
 
 📉 Reduce feature space while retaining important information.
 
@@ -233,7 +233,7 @@ This repository is ideal for:
 
 * Kernel PCA
 
-### 📄 Dimensionality Reduction Notebooks:
+#### 📄 Dimensionality Reduction Notebooks:
 
 * principal_component_analysis.ipynb
 
@@ -241,7 +241,7 @@ This repository is ideal for:
 
 * kernel_pca.ipynb
 
-## 8️⃣ Association Rule Learning
+### 8️⃣ Association Rule Learning
 
 🔗 Discover relationships between variables.
 
@@ -249,13 +249,13 @@ This repository is ideal for:
 
 * Eclat Algorithm
 
-### 📄 Association Learning Notebooks:
+#### 📄 Association Learning Notebooks:
 
 * apriori.ipynb
 
 * eclat.ipynb
 
-## 9️⃣ Reinforcement Learning
+### 9️⃣ Reinforcement Learning
 
 🎯 Learn decision-making through rewards.
 
@@ -263,13 +263,13 @@ This repository is ideal for:
 
 * Thompson Sampling
 
-### 📄 Reinforcement Learning Notebooks:
+#### 📄 Reinforcement Learning Notebooks:
 
 * upper_confidence_bound.ipynb
 
 * thompson_sampling.ipynb
 
-## 🔟 Natural Language Processing (NLP)
+### 🔟 Natural Language Processing (NLP)
 
 📝 Process and analyze textual data.
 
@@ -279,10 +279,10 @@ This repository is ideal for:
 
 * Model training & evaluation
 
-### 📄 Natural Language Processing Notebook:
+#### 📄 Natural Language Processing Notebook:
 * natural_language_processing.ipynb
 
-## 1️⃣1️⃣ Deep Learning
+### 1️⃣1️⃣ Deep Learning
 
 🧠 Build neural networks using TensorFlow/Keras.
 
@@ -290,13 +290,13 @@ This repository is ideal for:
 
 * Convolutional Neural Networks (CNN)
 
-### 📄 Deep Learning Notebooks:
+#### 📄 Deep Learning Notebooks:
 
 * artificial_neural_network.ipynb
 
 * convolutional_neural_network.ipynb
 
-## 1️⃣2️⃣ Boosting & Advanced Models
+### 1️⃣2️⃣ Boosting & Advanced Models
 
 ⚡ Powerful ensemble techniques.
 
@@ -304,7 +304,7 @@ This repository is ideal for:
 
 * CatBoost
 
-### 📄 Boosting Notebooks:
+#### 📄 Boosting Notebooks:
 
 * xg_boost.ipynb
 
@@ -312,7 +312,7 @@ This repository is ideal for:
 
 ---
 
-# 🧪 Datasets Used
+## 🧪 Datasets Used
 
 * Commonly used ML datasets, including:
 
@@ -328,7 +328,7 @@ This repository is ideal for:
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python
 * <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/> Numpy – Numerical computation
@@ -344,7 +344,7 @@ This repository is ideal for:
 
 ---
 
-# ▶️ How to Run Locally
+## ▶️ How to Run Locally
 
 git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
 
@@ -356,7 +356,7 @@ jupyter notebook
 
 ---
 
-# 🌟 Support & Contribution
+## 🌟 Support & Contribution
 
 If this repository helps you:
 
@@ -368,7 +368,7 @@ Feel free to open issues or submit pull requests.
 
 ---
 
-# 📌 Author
+## 📌 Author
 
 Mohit Singh Rajput 
 #### Machine Learning & Data Science Enthusiast
