@@ -304,7 +304,7 @@ This repository is ideal for:
 
 * CatBoost
 
-### 📂 Boosting Notebooks:
+### https://i.pinimg.com/736x/a8/03/ea/a803eaca35c7a4b2487b345848f200fd.jpg Boosting Notebooks:
 
 * xg_boost.ipynb
 
@@ -332,19 +332,34 @@ This repository is ideal for:
 
 * <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> Python
-</p>Python
+</p>
 
-* NumPy – Numerical computation
+* <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28"/> NumPy – Numerical computation
+</p>
 
-* Pandas – Data manipulation
+* <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28"/> Pandas – Data manipulation
+</p>
 
-* Matplotlib / Seaborn – Visualization
+* <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="28"/> Matplotlib /
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="28"/> Seaborn – Visualization
+</p>
 
-* Scikit-learn – ML algorithms & evaluation
+* <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28"/> Scikit-learn – ML algorithms & evaluation
+</p>
 
-* TensorFlow / Keras – Deep Learning
+* <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28"/> TensorFlow /
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="28"/> Keras – Deep Learning
+</p>
 
-* XGBoost / CatBoost – Boosting algorithms
+* <p align="left">
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="28"/> XGBoost /
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Boosting algorithms
+</p>
 
 ---
 
