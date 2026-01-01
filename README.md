@@ -304,8 +304,7 @@ This repository is ideal for:
 
 * CatBoost
 
-### <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/dfe67416-6174-4f0a-946b-2dc99f932765" />
- Boosting Notebooks:
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/dfe67416-6174-4f0a-946b-2dc99f932765" /> ### Boosting Notebooks:
 
 * xg_boost.ipynb
 
@@ -353,12 +352,13 @@ This repository is ideal for:
 </p>
 
 * <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28"/> TensorFlow /
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28"/> TensorFlow / – Deep Learning
+ 
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="28"/> Keras – Deep Learning
 </p>
 
 * <p align="left">
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="28"/> XGBoost /
+  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="28"/> XGBoost / – Boosting algorithms
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Boosting algorithms
 </p>
