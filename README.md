@@ -1,4 +1,4 @@
- 🧠 Machine Learning Blueprint
+# 🧠 Machine Learning Blueprint
 
 A comprehensive, hands-on Machine Learning curriculum implemented entirely in Python.
 This repository is designed to build strong intuition, practical skills, and interview-ready understanding of Machine Learning—from fundamentals to advanced models.
@@ -7,7 +7,7 @@ This repository is designed to build strong intuition, practical skills, and int
 
 ---
 
-## 🚀 Why This Repository?
+# 🚀 Why This Repository?
 
 ✔️ Structured like a real ML course
 
@@ -21,7 +21,7 @@ This repository is designed to build strong intuition, practical skills, and int
 
 ---
 
-## 🎯 Who Is This For?
+# 🎯 Who Is This For?
 
 This repository is ideal for:
 
@@ -35,7 +35,7 @@ This repository is ideal for:
 
 ---
 
-## 📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 * After completing this repository, you will be able to:
 
@@ -55,9 +55,9 @@ This repository is ideal for:
 
 ---
 
-## 🧩 Course Structure (Learning Path)
+# 🧩 Course Structure (Learning Path)
 
-#### 01️⃣ Data Preprocessing
+## 01️⃣ Data Preprocessing
 
 * Learn how to prepare raw data for Machine Learning.
 
@@ -69,5 +69,5 @@ This repository is ideal for:
 
 * Dataset splitting
 
-## Notebook
+### Notebook
 📄 data_preprocessing_tools.ipynb
