@@ -79,7 +79,7 @@ This repository is ideal for:
 
 * Dataset splitting
 
-### 📂 Notebook:
+### 📄 Notebook:
 
 * data_preprocessing_tools.ipynb
 
@@ -101,7 +101,7 @@ This repository is ideal for:
 
 * Random Forest Regression
 
-### 📂 Regression Notebooks:
+### 📄 Regression Notebooks:
 
 * simple_linear_regression.ipynb
 
@@ -129,7 +129,7 @@ This repository is ideal for:
 
 * Model comparison across algorithms
 
-### 📂 Notebooks:
+### 📄 Notebooks:
 
 * Accuracy_multiple_linear_regression.ipynb
 
@@ -159,7 +159,7 @@ This repository is ideal for:
 
 * Random Forest Classification
 
-### 📂 Classification Notebooks:
+### 📄 Classification Notebooks:
 
 * logistic_regression.ipynb
 
@@ -191,7 +191,7 @@ This repository is ideal for:
 
 * Model comparison across classifiers
 
-### 📂 Notebooks:
+### 📄 Notebooks:
 
 * Accuracy_logistic_regression.ipynb
 
@@ -217,7 +217,7 @@ This repository is ideal for:
 
 * Hierarchical Clustering
 
-### 📂 Clustering Notebooks:
+### 📄 Clustering Notebooks:
 
 * k_means_clustering.ipynb
 
@@ -233,7 +233,7 @@ This repository is ideal for:
 
 * Kernel PCA
 
-### 📂 Dimensionality Reduction Notebooks:
+### 📄 Dimensionality Reduction Notebooks:
 
 * principal_component_analysis.ipynb
 
@@ -249,7 +249,7 @@ This repository is ideal for:
 
 * Eclat Algorithm
 
-### 📂 Association Learning Notebooks:
+### 📄 Association Learning Notebooks:
 
 * apriori.ipynb
 
@@ -263,7 +263,7 @@ This repository is ideal for:
 
 * Thompson Sampling
 
-### 📂 Reinforcement Learning Notebooks:
+### 📄 Reinforcement Learning Notebooks:
 
 * upper_confidence_bound.ipynb
 
@@ -279,7 +279,7 @@ This repository is ideal for:
 
 * Model training & evaluation
 
-### 📂 Natural Language Processing Notebook:
+### 📄 Natural Language Processing Notebook:
 * natural_language_processing.ipynb
 
 ## 1️⃣1️⃣ Deep Learning
@@ -290,7 +290,7 @@ This repository is ideal for:
 
 * Convolutional Neural Networks (CNN)
 
-### 📂 Deep Learning Notebooks:
+### 📄 Deep Learning Notebooks:
 
 * artificial_neural_network.ipynb
 
@@ -304,7 +304,7 @@ This repository is ideal for:
 
 * CatBoost
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/dfe67416-6174-4f0a-946b-2dc99f932765" /> ### Boosting Notebooks:
+### 📄 Boosting Notebooks:
 
 * xg_boost.ipynb
 
@@ -330,38 +330,13 @@ This repository is ideal for:
 
 # 🛠️ Tech Stack & Tools
 
-* <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/> Python
-</p>
-
-* <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="28"/> NumPy – Numerical computation
-</p>
-
-* <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="28"/> Pandas – Data manipulation
-</p>
-
-* <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="28"/> Matplotlib /
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" height="28"/> Seaborn – Visualization
-</p>
-
-* <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="28"/> Scikit-learn – ML algorithms & evaluation
-</p>
-
-* <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="28"/> TensorFlow / – Deep Learning
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="28"/> Keras – Deep Learning
-</p>
-
-* <p align="left">
-  <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="28"/> XGBoost / – Boosting algorithms
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Boosting algorithms
-</p>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="26"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="26"/>
+* <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="26"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="26"/>
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="26"/>
+* <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="26"/>
 
 ---
 
