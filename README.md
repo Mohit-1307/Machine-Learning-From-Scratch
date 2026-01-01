@@ -31,7 +31,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 🧹 Data Preprocessing
 
-      - data_preprocessing_tools.ipynb
+      data_preprocessing_tools.ipynb
 
 📈 Regression
 
@@ -142,6 +142,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 ---
 
 🛠️ Tech Stack
+
 
 🐍 Python
 
