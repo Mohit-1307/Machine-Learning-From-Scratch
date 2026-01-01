@@ -371,7 +371,6 @@ Feel free to open issues or submit pull requests.
 # 📌 Author
 
 Mohit Singh Rajput
-
 #### Machine Learning & Data Science Enthusiast
 
 ---
