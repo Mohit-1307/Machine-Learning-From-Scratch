@@ -146,3 +146,9 @@ git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
 cd machine-learning-blueprint
 pip install -r requirements.txt
 jupyter notebook
+
+---
+
+⭐ Support
+
+If you find this repository helpful, feel free to star ⭐ the repo and share it!
