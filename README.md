@@ -143,7 +143,6 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 🛠️ Tech Stack
 
-
 🐍 Python
 
 🧮 NumPy
