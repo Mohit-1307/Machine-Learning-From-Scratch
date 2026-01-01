@@ -10,9 +10,13 @@ This repository is designed to build strong intuition, practical skills, and int
 ## 🚀 Why This Repository?
 
 ✔️ Structured like a real ML course
+
 ✔️ Covers end-to-end ML workflow
+
 ✔️ Clean, readable Jupyter Notebook implementations
+
 ✔️ Strong focus on model evaluation & selection
+
 ✔️ Ideal for students, job seekers, and practitioners
 
 ---
@@ -53,17 +57,17 @@ This repository is ideal for:
 
 ## 🧩 Course Structure (Learning Path)
 
-01️⃣ Data Preprocessing
+## 01️⃣ Data Preprocessing
 
-Learn how to prepare raw data for Machine Learning.
+* Learn how to prepare raw data for Machine Learning.
 
-Handling missing values
+* Handling missing values
 
-Encoding categorical variables
+* Encoding categorical variables
 
-Feature scaling
+* Feature scaling
 
-Dataset splitting
+* Dataset splitting
 
-** Notebook
+## Notebook
 📄 data_preprocessing_tools.ipynb
