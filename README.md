@@ -36,9 +36,11 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 ## 📂 Project Structure
 
 🧹 Data Preprocessing
+
       - data_preprocessing_tools.ipynb
 
 📈 Regression
+
       - simple_linear_regression.ipynb
       - multiple_linear_regression.ipynb
       - polynomial_regression.ipynb
@@ -47,6 +49,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - random_forest_regression.ipynb
 
 📊 Regression Model Selection
+
       - Accuracy_multiple_linear_regression.ipynb
       - Accuracy_polynomial_regression.ipynb
       - Accuracy_support_vector_regression.ipynb
@@ -54,6 +57,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - Accuracy_random_forest_regression.ipynb
 
 🤖 Classification
+
       - logistic_regression.ipynb
       - k_nearest_neighbors.ipynb
       - support_vector_machine.ipynb
@@ -63,6 +67,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - random_forest_classification.ipynb
 
 📊 Classification Model Selection
+
       - Accuracy_logistic_regression.ipynb
       - Accuracy_k_nearest_neighbors.ipynb
       - Accuracy_support_vector_machine.ipynb
@@ -72,34 +77,42 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - Accuracy_random_forest_classification.ipynb
         
 🧩 Clustering
+
       - k_means_clustering.ipynb
       - hierarchical_clustering.ipynb
 
 🔗 Association Rule Learning
+
       - apriori.ipynb
       - eclat.ipynb
 
 🎯 Reinforcement Learning
+
       - upper_confidence_bound.ipynb
       - thompson_sampling.ipynb
 
 📝 Natural Language Processing
+
       - natural_language_processing.ipynb
 
 🧠 Deep Learning
+
       - artificial_neural_network.ipynb
       - convolutional_neural_network.ipynb
 
 📉 Dimensionality Reduction
+
       - principal_component_analysis.ipynb
       - linear_discriminant_analysis.ipynb
       - kernel_pca.ipynb
 
 🔍 Model Selection
+
       - k_fold_cross_validation.ipynb
       - grid_search.ipynb
 
 ⚡ Boosting
+
       - xg_boost.ipynb
       - catboost.ipynb
 
@@ -107,7 +120,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 
 ## 🛠️ Tech Stack
 
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="20"/> Python
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" height="20"/> Python          
 🧮 NumPy
 🐼 Pandas  
 📈 Matplotlib, Seaborn  
