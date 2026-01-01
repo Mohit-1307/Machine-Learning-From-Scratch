@@ -139,6 +139,20 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
       catboost.ipynb
 
+📝 README.md
+
+      Main documentation file for the repository
+
+      Explains the purpose, scope, and learning objectives
+
+      Describes the project structure and notebook organization
+
+      Lists Machine Learning topics and algorithms covered
+
+      Provides setup and execution instructions
+
+      Acts as a quick reference guide for learners and contributors
+    
 ---
 
 ## 🛠️ Tech Stack
