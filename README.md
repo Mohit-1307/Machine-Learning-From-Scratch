@@ -356,6 +356,22 @@ jupyter notebook
 
 ---
 
+## 📘 Documentation
+
+📄 README.md
+
+Explains the purpose and vision of the repository
+
+Describes the complete folder and notebook structure
+
+Guides learners on how to follow the learning path step-by-step
+
+Provides setup instructions and usage guidelines
+
+Acts as a quick reference for learners, contributors, and recruiters
+
+---
+
 ## 🌟 Support & Contribution
 
 If this repository helps you:
