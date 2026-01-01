@@ -35,10 +35,10 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 
 ## 📂 Project Structure
 
-1. 🧹 Data Preprocessing
+🧹 Data Preprocessing
       - data_preprocessing_tools.ipynb`
 
-2. 📈 Regression
+📈 Regression
       - simple_linear_regression.ipynb`
       - multiple_linear_regression.ipynb`
       - polynomial_regression.ipynb`
@@ -46,14 +46,14 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - decision_tree_regression.ipynb`
       - random_forest_regression.ipynb`
 
-3. 📊 Regression Model Selection
+📊 Regression Model Selection
       - Accuracy_multiple_linear_regression.ipynb`
       - Accuracy_polynomial_regression.ipynb`
       - Accuracy_support_vector_regression.ipynb`
       - Accuracy_decision_tree_regression.ipynb`
       - Accuracy_random_forest_regression.ipynb`
 
-4. 🤖 Classification
+🤖 Classification
       - logistic_regression.ipynb`
       - k_nearest_neighbors.ipynb`
       - support_vector_machine.ipynb`
@@ -62,7 +62,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - decision_tree_classification.ipynb`
       - random_forest_classification.ipynb`
 
-5. 📊 Classification Model Selection
+📊 Classification Model Selection
       - Accuracy_logistic_regression.ipynb`
       - Accuracy_k_nearest_neighbors.ipynb`
       - Accuracy_support_vector_machine.ipynb`
@@ -71,35 +71,35 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
       - Accuracy_decision_tree_classification.ipynb`
       - Accuracy_random_forest_classification.ipynb`
         
-6. 🧩 Clustering
+🧩 Clustering
       - k_means_clustering.ipynb`
       - hierarchical_clustering.ipynb`
 
-7. 🔗 Association Rule Learning
+🔗 Association Rule Learning
       - apriori.ipynb`
       - eclat.ipynb`
 
-8. 🎯 Reinforcement Learning
+🎯 Reinforcement Learning
       - upper_confidence_bound.ipynb`
       - thompson_sampling.ipynb`
 
-9. 📝 Natural Language Processing
+📝 Natural Language Processing
       - natural_language_processing.ipynb`
 
-10. 🧠 Deep Learning
+🧠 Deep Learning
       - artificial_neural_network.ipynb`
       - convolutional_neural_network.ipynb`
 
-11. 📉 Dimensionality Reduction
+📉 Dimensionality Reduction
       - principal_component_analysis.ipynb`
       - linear_discriminant_analysis.ipynb`
       - kernel_pca.ipynb`
 
-12. 🔍 Model Selection
+    🔍 Model Selection
       - k_fold_cross_validation.ipynb`
       - grid_search.ipynb`
 
-13. ⚡ Boosting
+    ⚡ Boosting
       - xg_boost.ipynb`
       - catboost.ipynb`
 
