@@ -57,7 +57,7 @@ This repository is ideal for:
 
 # 🧩 Course Structure (Learning Path)
 
-## 01️⃣ Data Preprocessing
+## 1️⃣ Data Preprocessing
 
 * Learn how to prepare raw data for Machine Learning.
 
@@ -69,10 +69,13 @@ This repository is ideal for:
 
 * Dataset splitting
 
-### 📂 Notebook
+### 📂 Notebook:
+
 * data_preprocessing_tools.ipynb
 
-## 02️⃣ Supervised Learning — Regression
+## 🗺️ Supervised Learning:
+
+## 2️⃣ Regression
 
 📈 Predict continuous values using regression techniques.
 
@@ -101,3 +104,199 @@ This repository is ideal for:
 * decision_tree_regression.ipynb
 
 * random_forest_regression.ipynb
+
+## 3️⃣ Model Evaluation & Selection - Regression
+
+📊 Learn how to evaluate regression models based on prediction error and explained variance
+
+### Concepts Covered:
+
+* RMSE (Root Mean Squared Error)
+
+* R² Score
+
+* Bias–Variance Tradeoff
+
+* Model comparison across algorithms
+
+### 📂 Notebooks:
+
+* Accuracy_multiple_linear_regression.ipynb
+
+* Accuracy_polynomial_regression.ipynb
+
+* Accuracy_support_vector_regression.ipynb
+
+* Accuracy_decision_tree_regression.ipynb
+
+* Accuracy_random_forest_regression.ipynb
+
+## 4️⃣ Classification
+
+🤖 Predict discrete class labels.
+
+* Logistic Regression
+
+* K-Nearest Neighbors (KNN)
+
+* Support Vector Machine (SVM)
+
+* Kernel SVM
+
+* Naive Bayes
+
+* Decision Tree Classification
+
+* Random Forest Classification
+
+### 📂 Classification Notebooks:
+
+* logistic_regression.ipynb
+
+* k_nearest_neighbors.ipynb
+
+* support_vector_machine.ipynb
+
+* kernel_svm.ipynb
+
+* naive_bayes.ipynb
+
+* decision_tree_classification.ipynb
+
+* random_forest_classification.ipynb
+
+## 5️⃣ Model Evaluation & Selection - Classification
+
+📊 Learn how to evaluate classification models based on prediction accuracy and class-wise performance.
+
+### Concepts Covered:
+
+* Accuracy Score
+
+* Confusion Matrix
+
+* Precision, Recall, F1-Score
+
+* Bias–Variance Tradeoff
+
+* Model comparison across classifiers
+
+### 📂 Notebooks:
+
+* Accuracy_logistic_regression.ipynb
+
+* Accuracy_k_nearest_neighbors.ipynb
+
+* Accuracy_support_vector_machine.ipynb
+
+* Accuracy_kernel_svm.ipynb
+
+* Accuracy_naive_bayes.ipynb
+
+* Accuracy_decision_tree_classification.ipynb
+
+* Accuracy_random_forest_classification.ipynb
+
+## 🧬 Unsupervised Learning: 
+
+## 6️⃣ Clustering
+
+🧩 Discover hidden patterns in unlabeled data.
+
+* K-Means Clustering
+
+* Hierarchical Clustering
+
+### 📂 Clustering Notebooks:
+
+* k_means_clustering.ipynb
+
+* hierarchical_clustering.ipynb
+
+## 7️⃣ Dimensionality Reduction
+
+📉 Reduce feature space while retaining important information.
+
+* Principal Component Analysis (PCA)
+
+* Linear Discriminant Analysis (LDA)
+
+* Kernel PCA
+
+### 📂 Dimensionality Reduction Notebooks:
+
+* principal_component_analysis.ipynb
+
+* linear_discriminant_analysis.ipynb
+
+* kernel_pca.ipynb
+
+## 8️⃣ Association Rule Learning
+
+🔗 Discover relationships between variables.
+
+* Apriori Algorithm
+
+* Eclat Algorithm
+
+### 📂 Association Learning Notebooks:
+
+* apriori.ipynb
+
+* eclat.ipynb
+
+## 9️⃣ Reinforcement Learning
+
+🎯 Learn decision-making through rewards.
+
+* Upper Confidence Bound (UCB)
+
+* Thompson Sampling
+
+### 📂 Reinforcement Learning Notebooks:
+
+* upper_confidence_bound.ipynb
+
+* thompson_sampling.ipynb
+
+## 🔟 Natural Language Processing (NLP)
+
+📝 Process and analyze textual data.
+
+* Text cleaning
+
+* Bag of Words
+
+* Model training & evaluation
+
+### 📂 Natural Language Processing Notebook:
+* natural_language_processing.ipynb
+
+## 1️⃣1️⃣ Deep Learning
+
+🧠 Build neural networks using TensorFlow/Keras.
+
+* Artificial Neural Networks (ANN)
+
+* Convolutional Neural Networks (CNN)
+
+### 📂 Deep Learning Notebooks:
+
+* artificial_neural_network.ipynb
+
+* convolutional_neural_network.ipynb
+
+## 1️⃣2️⃣ Boosting & Advanced Models
+
+⚡ Powerful ensemble techniques.
+
+* XGBoost
+
+* CatBoost
+
+### 📂 Boosting Notebooks:
+
+* xg_boost.ipynb
+
+* catboost.ipynb
+
