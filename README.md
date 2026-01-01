@@ -35,13 +35,15 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 
 ## 📂 Project Structure
 
-
-
 Machine-Learning-Blueprint/
+
+
 │
 ├── 🧹 Data Preprocessing
 │ └── data_preprocessing_tools.ipynb
 │
+
+
 ├── 📈 Regression
 │ ├── simple_linear_regression.ipynb
 │ ├── multiple_linear_regression.ipynb
@@ -50,6 +52,8 @@ Machine-Learning-Blueprint/
 │ ├── decision_tree_regression.ipynb
 │ └── random_forest_regression.ipynb
 │
+
+
 ├── 📊 Regression Model Selection
 │ ├── Accuracy_multiple_linear_regression.ipynb
 │ ├── Accuracy_polynomial_regression.ipynb
@@ -57,6 +61,8 @@ Machine-Learning-Blueprint/
 │ ├── Accuracy_decision_tree_regression.ipynb
 │ └── Accuracy_random_forest_regression.ipynb
 │
+
+
 ├── 🤖 Classification
 │ ├── logistic_regression.ipynb
 │ ├── k_nearest_neighbors.ipynb
@@ -66,6 +72,8 @@ Machine-Learning-Blueprint/
 │ ├── decision_tree_classification.ipynb
 │ └── random_forest_classification.ipynb
 │
+
+
 ├── 📊 Classification Model Selection
 │ ├── Accuracy_logistic_regression.ipynb
 │ ├── Accuracy_k_nearest_neighbors.ipynb
@@ -75,6 +83,8 @@ Machine-Learning-Blueprint/
 │ ├── Accuracy_decision_tree_classification.ipynb
 │ └── Accuracy_random_forest_classification.ipynb
 │
+
+
 ├── 🧩 Clustering
 │ ├── k_means_clustering.ipynb
 │ └── hierarchical_clustering.ipynb
@@ -83,26 +93,38 @@ Machine-Learning-Blueprint/
 │ ├── apriori.ipynb
 │ └── eclat.ipynb
 │
+
+
 ├── 🎯 Reinforcement Learning
 │ ├── upper_confidence_bound.ipynb
 │ └── thompson_sampling.ipynb
 │
+
+
 ├── 📝 Natural Language Processing
 │ └── natural_language_processing.ipynb
 │
+
+
 ├── 🧠 Deep Learning
 │ ├── artificial_neural_network.ipynb
 │ └── convolutional_neural_network.ipynb
 │
+
+
 ├── 📉 Dimensionality Reduction
 │ ├── principal_component_analysis.ipynb
 │ ├── linear_discriminant_analysis.ipynb
 │ └── kernel_pca.ipynb
 │
+
+
 ├── 🔍 Model Selection
 │ ├── k_fold_cross_validation.ipynb
 │ └── grid_search.ipynb
 │
+
+
 ├── ⚡ Boosting
 │ ├── xg_boost.ipynb
 │ └── catboost.ipynb
