@@ -372,5 +372,4 @@ Feel free to open issues or submit pull requests.
 
 Mohit Singh Rajput
 #### Machine Learning & Data Science Enthusiast
-
 ---
