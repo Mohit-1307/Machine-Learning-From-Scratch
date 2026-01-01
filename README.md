@@ -170,7 +170,7 @@ Each algorithm is implemented in a **separate Jupyter Notebook** for clarity and
 
 ## ▶️ How to Run
 
-```bash
+bash
 git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
 cd machine-learning-blueprint
 pip install -r requirements.txt
@@ -178,6 +178,6 @@ jupyter notebook
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you find this repository helpful, feel free to star ⭐ the repo and share it!
