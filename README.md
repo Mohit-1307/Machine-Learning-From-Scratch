@@ -360,15 +360,15 @@ jupyter notebook
 
 📄 README.md
 
-Explains the purpose and vision of the repository
+* Explains the purpose and vision of the repository
 
-Describes the complete folder and notebook structure
+* Describes the complete folder and notebook structure
 
-Guides learners on how to follow the learning path step-by-step
+* Guides learners on how to follow the learning path step-by-step
 
-Provides setup instructions and usage guidelines
+* Provides setup instructions and usage guidelines
 
-Acts as a quick reference for learners, contributors, and recruiters
+* Acts as a quick reference for learners, contributors, and recruiters
 
 ---
 
