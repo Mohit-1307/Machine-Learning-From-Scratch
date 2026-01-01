@@ -57,7 +57,7 @@ This repository is ideal for:
 
 ## 🧩 Course Structure (Learning Path)
 
-# 01️⃣ Data Preprocessing
+### 01️⃣ Data Preprocessing
 
 * Learn how to prepare raw data for Machine Learning.
 
