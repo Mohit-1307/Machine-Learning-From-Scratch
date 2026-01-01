@@ -304,7 +304,8 @@ This repository is ideal for:
 
 * CatBoost
 
-### https://i.pinimg.com/736x/a8/03/ea/a803eaca35c7a4b2487b345848f200fd.jpg Boosting Notebooks:
+### <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/dfe67416-6174-4f0a-946b-2dc99f932765" />
+ Boosting Notebooks:
 
 * xg_boost.ipynb
 
@@ -358,6 +359,7 @@ This repository is ideal for:
 
 * <p align="left">
   <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="28"/> XGBoost /
+  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Boosting algorithms
 </p>
 
