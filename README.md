@@ -5,7 +5,7 @@ Focused on learning by implementation, building strong intuition behind models, 
 
 ---
 
-📌 Overview
+## 📌 Overview
 
 This repository contains end-to-end implementations of major Machine Learning concepts including:
 
@@ -27,7 +27,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 🧹 Data Preprocessing
 
@@ -141,7 +141,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 🐍 Python
 
@@ -159,7 +159,7 @@ Each algorithm is implemented in a separate Jupyter Notebook for clarity.
 
 ---
 
-▶️ How to Run
+## ▶️ How to Run
 git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
 cd machine-learning-blueprint
 pip install -r requirements.txt
@@ -167,7 +167,7 @@ jupyter notebook
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If this repository helps you:
 
