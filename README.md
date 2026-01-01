@@ -7,3 +7,63 @@ This repository is designed to build strong intuition, practical skills, and int
 
 ---
 
+## 🚀 Why This Repository?
+
+✔️ Structured like a real ML course
+✔️ Covers end-to-end ML workflow
+✔️ Clean, readable Jupyter Notebook implementations
+✔️ Strong focus on model evaluation & selection
+✔️ Ideal for students, job seekers, and practitioners
+
+---
+
+## 🎯 Who Is This For?
+
+This repository is ideal for:
+
+✔️ 🎓 Students learning Machine Learning
+
+✔️ 💼 Job seekers preparing for ML/Data Science interviews
+
+✔️ 🧠 Self-learners who want conceptual clarity
+
+✔️ 👨‍💻 Engineers transitioning into ML roles
+
+---
+
+## 📚 Learning Outcomes
+
+* After completing this repository, you will be able to:
+
+* Preprocess real-world datasets
+
+* Implement supervised & unsupervised ML models
+
+* Evaluate and compare multiple models
+
+* Apply dimensionality reduction techniques
+
+* Build and train neural networks
+
+* Tune hyperparameters efficiently
+
+* Select the right algorithm for a given problem
+
+---
+
+## 🧩 Course Structure (Learning Path)
+
+01️⃣ Data Preprocessing
+
+Learn how to prepare raw data for Machine Learning.
+
+Handling missing values
+
+Encoding categorical variables
+
+Feature scaling
+
+Dataset splitting
+
+** Notebook
+📄 data_preprocessing_tools.ipynb
