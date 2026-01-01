@@ -1,4 +1,4 @@
-# Machine Learning From Scratch 🚀
+# Machine Learning Blueprint 🚀
 
 This repository is a comprehensive collection of **Machine Learning algorithms implemented step-by-step in Python**, covering **supervised learning, unsupervised learning, reinforcement learning, deep learning, dimensionality reduction, and model selection techniques**.
 
@@ -162,4 +162,4 @@ Machine-Learning-From-Scratch/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Mohit-1307/Machine-Learning-From-Scratch.git
+   git clone https://github.com/Mohit-1307/Machine-Learning-Blueprint.git
