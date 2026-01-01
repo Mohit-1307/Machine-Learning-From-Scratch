@@ -55,6 +55,16 @@ This repository is ideal for:
 
 ---
 
+📚 Prerequisites
+
+* Basic Python programming
+
+* High school–level mathematics
+
+* Basic statistics (mean, variance, probability)
+
+---
+
 # 🧩 Course Structure (Learning Path)
 
 ## 1️⃣ Data Preprocessing
@@ -73,7 +83,7 @@ This repository is ideal for:
 
 * data_preprocessing_tools.ipynb
 
-## 🗺️ Supervised Learning:
+## 🗺️ Supervised Learning
 
 ## 2️⃣ Regression
 
@@ -197,7 +207,7 @@ This repository is ideal for:
 
 * Accuracy_random_forest_classification.ipynb
 
-## 🧬 Unsupervised Learning: 
+## 🧬 Unsupervised Learning
 
 ## 6️⃣ Clustering
 
@@ -300,3 +310,67 @@ This repository is ideal for:
 
 * catboost.ipynb
 
+---
+
+# 🧪 Datasets Used
+
+* Commonly used ML datasets, including:
+
+* Salary prediction datasets
+
+* Social Network Ads
+
+* Mall Customer Segmentation
+
+* Market Basket Data
+
+(All datasets are included or loaded within notebooks.)
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+* Python
+
+* NumPy – Numerical computation
+
+* Pandas – Data manipulation
+
+* Matplotlib / Seaborn – Visualization
+
+* Scikit-learn – ML algorithms & evaluation
+
+* TensorFlow / Keras – Deep Learning
+
+* XGBoost / CatBoost – Boosting algorithms
+
+---
+
+# ▶️ How to Run Locally
+
+git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
+
+cd machine-learning-blueprint
+
+pip install -r requirements.txt
+
+jupyter notebook
+
+---
+
+# 🌟 Support & Contribution
+
+If this repository helps you:
+
+⭐ Star the repository
+🔁 Share it with fellow learners
+
+Contributions are welcome!
+Feel free to open issues or submit pull requests.
+
+---
+
+📌 Author
+
+Mohit Singh Rajput
+Machine Learning & Data Science Enthusiast
