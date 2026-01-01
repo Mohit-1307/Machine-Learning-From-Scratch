@@ -55,7 +55,7 @@ This repository is ideal for:
 
 ---
 
-📚 Prerequisites
+# 📚 Prerequisites
 
 * Basic Python programming
 
