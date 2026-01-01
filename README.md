@@ -69,5 +69,35 @@ This repository is ideal for:
 
 * Dataset splitting
 
-### Notebook
-📄 data_preprocessing_tools.ipynb
+### 📂 Notebook
+* data_preprocessing_tools.ipynb
+
+## 02️⃣ Supervised Learning — Regression
+
+📈 Predict continuous values using regression techniques.
+
+* Simple Linear Regression
+
+* Multiple Linear Regression
+
+* Polynomial Regression
+
+* Support Vector Regression (SVR)
+
+* Decision Tree Regression
+
+* Random Forest Regression
+
+### 📂 Regression Notebooks:
+
+* simple_linear_regression.ipynb
+
+* multiple_linear_regression.ipynb
+
+* polynomial_regression.ipynb
+
+* support_vector_regression.ipynb
+
+* decision_tree_regression.ipynb
+
+* random_forest_regression.ipynb
