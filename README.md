@@ -340,7 +340,7 @@ This repository is ideal for:
 * <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="28"/> Keras – Deep Learning
 * <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="26"/> XGBoost – Gradient Boosting
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Gradient Boosting
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png" height="28"/> CatBoost – Gradient Boosting
 
 ---
 
