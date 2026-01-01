@@ -65,7 +65,7 @@ This repository is ideal for:
 
 ---
 
-## 🧩 Course Structure (Learning Path)
+## 🧩 Course Structure
 
 ### 1️⃣ Data Preprocessing
 
