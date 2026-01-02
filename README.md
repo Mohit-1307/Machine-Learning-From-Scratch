@@ -65,6 +65,82 @@ This repository is ideal for:
 
 ---
 
+---
+
+## 🗺️ Learning Path
+## 🧭 Visual Roadmap (Machine Learning Progression)
+
+```
+FOUNDATION
+│
+├── Data Preprocessing
+│   ├── Handling Missing Values
+│   ├── Encoding Categorical Data
+│   ├── Feature Scaling
+│   └── Train-Test Split
+│
+SUPERVISED LEARNING
+│
+├── Regression
+│   ├── Simple & Multiple Linear Regression
+│   ├── Polynomial Regression
+│   ├── Support Vector Regression (SVR)
+│   ├── Decision Tree Regression
+│   └── Random Forest Regression
+│
+├── Model Evaluation (Regression)
+│   ├── RMSE
+│   ├── R² Score
+│   └── Bias–Variance Tradeoff
+│
+├── Classification
+│   ├── Logistic Regression
+│   ├── KNN
+│   ├── SVM & Kernel SVM
+│   ├── Naive Bayes
+│   ├── Decision Tree
+│   └── Random Forest
+│
+├── Model Evaluation (Classification)
+│   ├── Confusion Matrix
+│   ├── Precision, Recall, F1-Score
+│   └── Model Comparison
+│
+UNSUPERVISED LEARNING
+│
+├── Clustering
+│   ├── K-Means
+│   └── Hierarchical Clustering
+│
+├── Dimensionality Reduction
+│   ├── PCA
+│   ├── LDA
+│   └── Kernel PCA
+│
+ADVANCED MACHINE LEARNING
+│
+├── Association Rule Learning
+│   ├── Apriori
+│   └── Eclat
+│
+├── Reinforcement Learning
+│   ├── Upper Confidence Bound (UCB)
+│   └── Thompson Sampling
+│
+├── Natural Language Processing (NLP)
+│   ├── Text Cleaning
+│   ├── Bag of Words
+│   └── Model Training & Evaluation
+│
+└── Deep Learning & Boosting
+    ├── Artificial Neural Networks (ANN)
+    ├── Convolutional Neural Networks (CNN)
+    ├── XGBoost
+    └── CatBoost
+    ```
+
+---
+
 ## 🧩 Course Structure
 
 ### 1️⃣ Data Preprocessing
