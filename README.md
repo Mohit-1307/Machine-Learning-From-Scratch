@@ -69,7 +69,7 @@ This repository is ideal for:
 
 ## 🗺️ Learning Path
 
-## 🧭 Visual Roadmap (Machine Learning Progression)
+### 🧭 Visual Roadmap (Machine Learning Progression)
 
 📌 Follow this learning path sequentially for maximum conceptual clarity and interview readiness
 
@@ -432,13 +432,74 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
-git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
+* Follow these steps to set up and run the Python From Scratch repository on your local machine
 
-cd machine-learning-blueprint
+### 1️⃣ Clone the Repository
+
+git clone https://github.com/Machine-Learning-Blueprint.git
+
+cd Machine-Learning-Blueprint
+
+### 2️⃣ (Optional but Recommended) Create a Virtual Environment
+
+#### 🪟 Windows:
+
+python -m venv venv
+
+venv\Scripts\activate
+
+#### <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" height="28"/> macOS / 🐧 Linux:
+
+python3 -m venv venv
+
+source venv/bin/activate
+
+### 3️⃣ Install Dependencies
+
+* Upgrade pip and install all required libraries.
+
+pip install --upgrade pip
 
 pip install -r requirements.txt
 
+### 4️⃣ Launch Jupyter Notebook
+
+* Start Jupyter to explore and run the notebooks.
+
 jupyter notebook
+
+
+* This will open Jupyter in your browser.
+
+* Navigate to any topic folder (Regression, Classification, Clustering, etc.) and open a .ipynb notebook.
+
+### 5️⃣ Run Notebooks
+
+#### Inside a notebook:
+
+* Run cells top-to-bottom
+
+* Follow explanations, visualizations, and outputs
+
+* Modify code to experiment with models and parameters
+
+📝 Notes
+
+✅ Ensure Python 3.8+ is installed
+
+python --version
+
+* 📦 venv/ is optional but highly recommended
+
+* 📊 Datasets are Loaded directly inside notebooks
+
+#### 🎯 This repository is designed for:
+
+* Conceptual clarity
+
+* Hands-on ML practice
+
+* Interview preparation
 
 ---
 
