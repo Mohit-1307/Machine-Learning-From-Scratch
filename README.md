@@ -430,7 +430,7 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ## ▶️ How to Run Locally
 
-* Follow these steps to set up and run the Python From Scratch repository on your local machine
+* Follow these steps to set up and run the Machine Learning Blueprint repository on your local machine
 
 ### 1️⃣ Clone the Repository
 
@@ -459,6 +459,8 @@ source venv/bin/activate
 pip install --upgrade pip
 
 pip install -r requirements.txt
+
+* If requirements.txt is not present, install manually
 
 ### 4️⃣ Launch Jupyter Notebook
 
@@ -490,6 +492,8 @@ python --version
 * 📦 venv/ is optional but highly recommended
 
 * 📊 Datasets are Loaded directly inside notebooks
+
+* 💻 Works on Windows, macOS, and Linux
 
 #### 🎯 This repository is designed for:
 
