@@ -65,8 +65,6 @@ This repository is ideal for:
 
 ---
 
----
-
 ## 🗺️ Learning Path
 
 ### 🧭 Visual Roadmap (Machine Learning Progression)
