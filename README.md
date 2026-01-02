@@ -68,7 +68,10 @@ This repository is ideal for:
 ---
 
 ## 🗺️ Learning Path
+
 ## 🧭 Visual Roadmap (Machine Learning Progression)
+
+📌 Follow this learning path sequentially for maximum conceptual clarity and interview readiness
 
 ```
 FOUNDATION
@@ -137,7 +140,8 @@ ADVANCED MACHINE LEARNING
     ├── Convolutional Neural Networks (CNN)
     ├── XGBoost
     └── CatBoost
-    ```
+    |
+```
 
 ---
 
